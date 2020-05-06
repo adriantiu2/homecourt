@@ -1,0 +1,652 @@
+body {
+	background-color: white;
+	background-color: white;
+            transform: scale(0.55);
+            margin-right: 1400px;
+}
+
+
+
+.spalding {
+	width: 600px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.iversonjersey {
+	width: 600px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.flash {
+  -webkit-animation: NAME-YOUR-ANIMATION 1s infinite;  /* Safari 4+ */
+  -moz-animation: NAME-YOUR-ANIMATION 1s infinite;  /* Fx 5+ */
+  -o-animation: NAME-YOUR-ANIMATION 1s infinite;  /* Opera 12+ */
+  animation: NAME-YOUR-ANIMATION 1s infinite;  /* IE 10+, Fx 29+ */
+}
+@-webkit-keyframes NAME-YOUR-ANIMATION {
+  0%, 49% {
+    background-color: yellow;
+  }
+  50%, 100% {
+    background-color: green;
+  }
+}
+
+.spaldingthumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 780px;
+	left: 50px;
+	position: absolute;
+}
+
+.spaldingcaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 980px;
+	left: 0px;
+	position: absolute;
+}
+
+.slamup {
+	width: 1000px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.slamuppop {
+	width:800px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.slamupcaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 320px;
+	left: 0px;
+	position: absolute;
+}
+
+.slamupthumb {
+	margin-top: 200px;
+	width: 300px;
+	top: 120px;
+	left: 0px;
+	position: absolute;
+}
+
+.backontopthumb {
+	margin-top: 200px;
+	width: 250px;
+	top: 50px;
+	left: 300px;
+	position: absolute;
+}
+
+.backontopcaption {
+	margin-top: 200px;
+	width: 250px;
+	top: 440px;
+	left: 290px;
+	position: absolute;
+}
+
+.backontop {
+	width: 600px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+
+.jordanthumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 230px;
+	left: 750px;
+	position: absolute;
+}
+
+.jordanthumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.jordancaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 500px;
+	left: 750px;
+	position: absolute;
+}
+
+.jordanback {
+	width: 420px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.jordanwriting {
+	width: 800px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.jordanprice {
+	width: 500px;
+	top: 0px;
+	left: 400px;
+	position: absolute;
+}
+
+.shaqthumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 250px;
+	left: 1100px;
+	position: absolute;
+}
+
+.shaqthumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.shaqcaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 520px;
+	left: 1100px;
+	position: absolute;
+}
+
+.shaqback {
+	width: 400px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.pejathumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 630px;
+	left: 900px;
+	position: absolute;
+}
+
+.pejathumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.pejacaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 900px;
+	left: 900px;
+	position: absolute;
+}
+
+.pejaback {
+	width: 400px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.crawfordthumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 1000px;
+	left: 700px;
+	position: absolute;
+}
+
+.crawfordthumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.crawfordcaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 1300px;
+	left: 700px;
+	position: absolute;
+}
+
+.crawfordback {
+	width: 400px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.housethumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 1060px;
+	left: 400px;
+	position: absolute;
+}
+
+.housethumb2 {
+	width: 600px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.housecaption {
+	margin-top: 200px;
+	width: 200px;
+	top: 1360px;
+	left: 400px;
+	position: absolute;
+}
+
+
+.rondothumb {
+	margin-top: 200px;
+	width: 180px;
+	top: 400px;
+	left: 70px;
+	position: absolute;
+}
+
+.rondo {
+	width: 600px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.rondocaption {
+	margin-top: 200px;
+	width: 180px;
+	top: 650px;
+	left: 70px;
+	position: absolute;
+}
+
+.tmacthumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 580px;
+	left: 600px;
+	position: absolute;
+}
+
+.tmacthumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.tmaccaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 850px;
+	left: 600px;
+	position: absolute;
+}
+
+.tmacback {
+	width: 400px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.chaunceythumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 1100px;
+	left: 1100px;
+	position: absolute;
+}
+
+.chaunceythumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.chaunceycaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 1360px;
+	left: 1100px;
+	position: absolute;
+}
+
+.chaunceyback {
+	width: 400px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.wadethumb {
+	margin-top: 200px;
+	width: 200px;
+	top: 1240px;
+	left: 100px;
+	position: absolute;
+}
+
+.wadethumb2 {
+	width: 400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.wadecaption {
+	margin-top: 200px;
+	width: 300px;
+	top: 1500px;
+	left: 100px;
+	position: absolute;
+}
+
+.wadeback {
+	width: 400px;
+	top: 560px;
+	left: 0px;
+	position: absolute;
+}
+
+.background {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.bluesection {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.purplesection {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.orangesection {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.pinksection {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.greensection {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.redsection {
+	margin-top: 200px;
+	width: 1400px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.homecourt {
+	width: 800px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+
+.wallbuttonb {
+	width: 0px;
+	top: 0px;
+	left: 1000px;
+	position: absolute;
+}
+
+.wallbuttondiv {
+    width: 200px;
+	top: 60px;
+	left: 800px;
+    position: absolute;
+    display: inline-block;
+}
+.wallbuttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 200px;;
+}
+.wallbuttondiv:hover .img-top {
+	width: 200px;
+    display: inline;
+}
+.wallbutton {
+	width: 200px;
+}
+
+
+.binder2buttondiv {
+    width: 200px;
+	top: 60px;
+	left: 1000px;
+    position: absolute;
+    display: inline-block;
+}
+.binder2buttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 150px;
+}
+.binder2buttondiv:hover .img-top {
+	width: 200px;
+    display: inline;
+}
+
+.binder2button {
+	width: 200px;
+}
+
+
+.binder11buttondiv {
+    width: 400px;
+	top: 120px;
+	left: 800px;
+    position: absolute;
+    display: inline-block;
+}
+.binder11buttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 400px;;
+}
+.binder11buttondiv:hover .img-top {
+	width: 400px;
+    display: inline;
+}
+.binder11button {
+	width: 400px;
+}
+
+.binder2button2 {
+	background-position:0 -50px;
+}
+
+
+.floorbuttondiv {
+    width: 170px;
+	top: 45px;
+	left: 1170px;
+    position: absolute;
+    display: inline-block;
+}
+.floorbuttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 170px;;
+}
+.floorbuttondiv:hover .img-top {
+	width: 170px;
+    display: inline;
+}
+.floorbutton {
+	width: 170px;
+}
+
+
+.shelf4buttondiv {
+    width: 170px;
+	top: 130px;
+	left: 1190px;
+    position: absolute;
+    display: inline-block;
+}
+.shelf4buttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 170px;;
+}
+.shelf4buttondiv:hover .img-top {
+	width: 170px;
+    display: inline;
+}
+.shelf4button {
+	width: 170px;
+}
+
+
+
+.binder12buttondiv {
+    width: 400px;
+	top: 0px;
+	left: 800px;
+    position: absolute;
+    display: inline-block;
+}
+.binder12buttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 400px;;
+}
+.binder12buttondiv:hover .img-top {
+	width: 400px;
+    display: inline;
+}
+.binder12button {
+	width: 400px;
+}
+
+.salebuttondiv {
+	width: 200px;
+	top: 400px;
+	left: 650px;
+	position: absolute;
+	display: inline-block;
+}
+.salebuttondiv .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 200px;;
+}
+.salebuttondiv:hover .img-top {
+	width: 200px;;
+    display: inline;
+
+}
+.salebutton {
+	width: 200px;
+}
+
+.spaldingprice {
+	width: 400px;
+	top: 900px;
+	left: 400px;
+	position: absolute;
+}
+
+.popcaption {
+	width: 700px;
+	top: 870px;
+	left: 0px;
+	position: absolute;
+}
+
+.cardcaption {
+	width: 400px;
+	top: 470px;
+	left: 450px;
+	position: absolute;
+}
+
+.homecourtwriting {
+	width: 1140px;
+	top: 0px;
+	left: 1420px;
+	position: absolute;
+}
+
+
